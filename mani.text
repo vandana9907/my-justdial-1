@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+
+<html>
+
+
+
+<head>
+
+    <title>Justdial</title>
+
+    <link rel="stylesheet" href="html.css">
+    <style>
+        div ul li {
+
+            list-style-type: none;
+
+        }
+    </style>
+
+</head>
+
+<body>
+    <img alt="justdail" class="pic" src="https://akam.cdn.jdmagicbox.com/images/icontent/jdrwd/jdlogosvg.svg" width="120">
+    <a>
+
+    <div class="text-center">What's New </div>
+
+    <div> <a class="jd">
+
+            <button class="f">freelist</button></a>
+
+        <a class="a">Advertise </a>
+
+        <a class="b"><select>language> <option>English
+
+                </option>
+                <option>Telugu</option>
+
+                <option>Hindi</option>
+
+            </select></a>
+
+        <a class="c">
+
+            <button>login/signup</button></a>
+
+    </div>
+
+    </a>
+
+
+
+    <br>
+
+    <br>
+
+    <div class="searchbar">
+
+        <div class="search-wrapper">
+
+            <span class="header_sprite map-icon"></span>
+
+            <span class id="search">
+                <button class="search-button">
+
+                    <i id="sricon" class="sricon"></i>
+
+                    <span id="sriconwpr" class="header_sprite search-icon sriconwpr"></span>
+
+                </button>
+
+                <input class="search-input" type="text" id="searchbox"
+                    placeholder="search for anything, anywhere in india" autocomplete="off">
+                <a class="search-text">
+
+                    <input placeholder="nellore" type="text" value="" name="search" id="search" />
+
+
+
+                </a>
+            </span>
+                
+            <div class="left-keys">
+
+                <ul class="hotkeys-list" id="sidebarnevleft">
+
+                    <li> <button class="abc">
+
+                            <a title="COVID-19 Helpline">
+
+                                <span class="hotkeys_sprite hotkeys-icon covid19-icon"></span>
+
+                                <span class="hotkeys-text" id="hotkeys_text_0">COVID-19 Helpline</span>
+
+                            </a>
+
+                        </button>
+
+                    </li>
+
+                    <li> <button class="abc">
+
+                            <a title="COVID-19 Helpline">
+
+                                <span class="hotkeys_sprite hotkeys-icon b2b-icon"></span>
+
+                                <span class="hotkeys-b2b" id="hotkeys_text_0">B2B</span>
+
+                            </a>
+
+                        </button>
+
+                    </li>
+                    <li> <button class="abc">
+
+                            <a title="COVID-19 Helpline">
+
+                                <span class="hotkeys_sprite hotkeys-icon tkari-icon"></span>
+
+                                <span class="hotkeys-text2" id="hotkeys_text_0">Air Teckits</span>
+                            </a>
+
+                        </button>
+
+                    </li>
+
+
+                    <li> <button class="abc">
+
+                            <a title="COVID-19 Helpline">
+
+                                <span class="hotkeys_sprite hotkeys-icon anyoh-icon"></span>
+
+                                <span class="hotkeys-text2" id="hotkeys_text_0">Anything on Hire</span>
+
+                            </a>
+
+                        </button>
+
+                    </li>
+                </ul
+                </div>
+            <div>
+                <ul>
+                    <li> <button class="abc">
+                            <a title="COVID-19 Helpline">
+                                <span class="hotkeys_sprite hotkeys-icon loana-icon"></span>
+                                <span class="hotkeys-text2" id="hotkeys_text_0">Lones</span>
+
+                            </a>
+                        </button>
+                    </li>
+
+                    <li> <button class="abc">
+                            <a title="COVID-19 Helpline">
+                                <span class="hotkeys_sprite hotkeys-icon autoc-icon"></span>
+
+                                <span class="hotkeys-text2" id="hotkeys_text_0">Autocare</span>
+
+                            </a>
+                        </button>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <ul>
+                    <li> <button class="abc">
+                            <a title="COVID-19 Helpline">
+                                <span class="hotkeys_sprite hotkeys-icon autom-icon"></span>
+
+                                <span class="hotkeys-text2" id="hotkeys_text_0">Automobile</span>
+
+                            </a>
+                        </button>
+                    </li>
+
+                    </a>
+                    </button>
+    </ul>
+            </div>
+
+                    </li>
+                    <li> <button class="abc">
+                            <a title="COVID-19 Helpline">
+                                <span class="hotkeys_sprite hotkeys-icon babyc-icon"></span>
+
+                                <span class="hotkeys-text2" id="hotkeys_text_0">Baby care</span>
+
+                            </a>
+                        </button>
+                    </li>
+                    </li>
+                    <li> <button class="abc">
+                            <a title="COVID-19 Helpline">
+                                <span class="hotkeys_sprite hotkeys-icon banqu-icon"></span>
+
+                                <span class="hotkeys-text2" id="hotkeys_text_0">Banquets</span>
+
+                            </a>
+                        </button>
+                    </li>
+
+                    <li> <button class="abc">
+                            <a title="COVID-19 Helpline">
+                                <span class="hotkeys_sprite hotkeys-icon bails-icon"></span>
+
+                                <span class="hotkeys-text2" id="hotkeys_text_0">Bails & Recharge</span>
+
+                            </a>
+                        </button>
+                    </li>
+
+                    <li> <button class="abc">
+                            <a title="COVID-19 Helpline">
+                                <span class="hotkeys_sprite hotkeys-icon bookh-icon"></span>
+
+                                <span class="hotkeys-text2" id="hotkeys_text_0">Book Hotel</span>
+
+                            </a>
+                        </button>
+                    </li>
+                    <li> <button class="abc">
+                            <a title="COVID-19 Helpline">
+                                <span class="hotkeys_sprite hotkeys-icon pestc-icon"></span>
+
+                                <span class="hotkeys-text2" id="hotkeys_text_0">Pest control</span>
+
+                            </a>
+                        </button>
+                    </li>
+                    <li> <button class="abc">
+                            <a title="COVID-19 Helpline">
+                                <span class="hotkeys_sprite hotkeys-icon bus-icon"></span>
+
+                                <span class="hotkeys-text2" id="hotkeys_text_0">Bus</span>
+
+                            </a>
+                        </button>
+                    </li>
+                    <li> <button class="abc">
+                            <a title="COVID-19 Helpline">
+                                <span class="hotkeys_sprite hotkeys-icon bus-icon"></span>
+
+                                <span class="hotkeys-text2" id="hotkeys_text_0">Cabs & Car rentals</span>
+
+                            </a>
+                        </button>
+                    </li>
+                    </li>
+                    <li> <button class="abc">
+                            <a title="COVID-19 Helpline">
+                                <span class="hotkeys_sprite hotkeys-icon cater-icon"></span>
+
+                                <span class="hotkeys-text2" id="hotkeys_text_0">Cateresr</span>
+
+                            </a>
+                        </button>
+                    </li>
+
+                    <li> <button class="abc">
+                            <a title="COVID-19 Helpline">
+                                <span class="hotkeys_sprite hotkeys-icon chemi-icon"></span>
+
+                                <span class="hotkeys-text2" id="hotkeys_text_0">Chemists</span>
+
+                            </a>
+                        </button>
+                    </li>
+                    <li> <button class="abc">
+                            <a title="COVID-19 Helpline">
+                                <span class="hotkeys_sprite hotkeys-icon civil-icon"></span>
+
+                                <span class="hotkeys-text2" id="hotkeys_text_0">cilvil Contractors</span>
+
+                            </a>
+                        </button>
+                    </li>
+                    <li> <button class="abc">
+                            <a title="COVID-19 Helpline">
+                                <span class="hotkeys_sprite hotkeys-icon couri-icon"></span>
+
+                                <span class="hotkeys-text2" id="hotkeys_text_0">courier</span>
+
+                            </a>
+                        </button>
+                    </li>
+                    <li> <button class="abc">
+                            <a title="COVID-19 Helpline">
+                                <span class="hotkeys_sprite hotkeys-icon daily-icon"></span>
+
+                                <span class="hotkeys-text2" id="hotkeys_text_0">Daily Needs</span>
+
+                            </a>
+                        </button>
+                    </li>
+                    <li> <button class="abc">
+                            <a title="COVID-19 Helpline">
+                                <span class="hotkeys_sprite hotkeys-icon dance-icon"></span>
+
+                                <span class="hotkeys-text2" id="hotkeys_text_0">Dance & Music</span>
+
+                            </a>
+                        </button>
+                    </li>
+
+                    <li> <button class="abc">
+                            <a title="COVID-19 Helpline">
+                                <span class="hotkeys_sprite hotkeys-icon doceto-icon"></span>
+
+                                <span class="hotkeys-text2" id="hotkeys_text_0">Doctor</span>
+
+                            </a>
+                        </button>
+                    </li>
+
+                    <li> <button class="abc">
+                            <a title="COVID-19 Helpline">
+                                <span class="hotkeys_sprite hotkeys-icon educa-icon"></span>
+
+                                <span class="hotkeys-text2" id="hotkeys_text_0">Education</span>
+
+                            </a>
+                        </button>
+                    </li>
+
+                    <li> <button class="abc">
+                            <a title="COVID-19 Helpline">
+                                <span class="hotkeys_sprite hotkeys-icon emerg-icon"></span>
+
+                                <span class="hotkeys-text2" id="hotkeys_text_0">Emergency</span>
+
+                            </a>
+                        </button>
+                    </li>
+
+                    <p>Papular services </p>
+
+                    <a class="heading wrapper">
+
+                        <button class="figure-text">
+
+                            <span><b>Resturants</b></span>
+
+                            <ul>
+
+
+
+                                <li class="ab">Order Online</li>
+
+                                <br>
+
+                                <li class="bc">Book Table</li>
+
+                                <br>
+
+                                <li class="cd">Trending</li>
+
+                                <br>
+
+                                <li class="ac">More...</li>
+
+                                <div>
+
+                                    <img class="image" alt="restuarant"
+                                        src="https://akam.cdn.jdmagicbox.com/images/icontent/jdrwd_new/restaurant.jpg">
+
+                                </div>
+
+                            </ul>
+
+
+                            <a class="heading wrapper">
+
+                                <button class="figure-text">
+
+                                    <span><b>SHOPE ONLINE</b></span>
+
+                                    <ul>
+
+                                        <li class="ab">Mobile</li>
+
+                                        <br>
+
+                                        <li class="bc">Televisions</li>
+
+                                        <br>
+
+                                        <li class="cd">Air conditions</li>
+
+                                        <br>
+
+                                        <li class="ac">More...</li>
+
+                                        <div>
+
+                                            <img class="image" alt="online shoping"
+                                                src="https://akam.cdn.jdmagicbox.com/images/icontent/jdrwd_new/shopfront.jpg">
+
+                                        </div>
+
+                                    </ul>
+
+                                </button>
+
+
+                            
+    
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
